@@ -1,0 +1,20 @@
+{
+  "airports":[
+    {"code":"LHR","name":"London Heathrow","x":0,"y":51},
+    {"code":"JFK","name":"John F Kennedy International","x":-37,"y":41},
+    {"code":"CDG","name":"Charles de Gaulle","x":1,"y":49},
+    {"code":"HND","name":"Tokyo Haneda","x":70,"y":36},
+    {"code":"DXB","name":"Dubai International","x":28,"y":25},
+    {"code":"SIN","name":"Singapore Changi","x":52,"y":1},
+    {"code":"LAX","name":"Los Angeles International","x":-59,"y":34},
+    {"code":"FRA","name":"Frankfurt Airport","x":4,"y":50},
+    {"code":"AMS","name":"Amsterdam Schiphol","x":3,"y":52},
+    {"code":"IST","name":"Istanbul Airport","x":15,"y":41},
+    {"code":"ATL","name":"Hartsfield Jackson Atlanta","x":-42,"y":33},
+    {"code":"PEK","name":"Beijing Capital","x":58,"y":40},
+    {"code":"SYD","name":"Sydney Kingsford Smith","x":76,"y":-34},
+    {"code":"GRU","name":"Sao Paulo Guarulhos","x":-23,"y":-23},
+    {"code":"YYZ","name":"Toronto Pearson","x":-40,"y":44},
+    {"code":"BEG","name":"Belgrade Nikola Tesla","x":10,"y":45}
+  ]
+}
